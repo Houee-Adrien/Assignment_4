@@ -1,0 +1,40 @@
+html {
+    background-color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman';
+    font-size : 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    width: 50%;
+    padding: 10px;
+    background-color: #ff0000;
+    color: #c3ff00;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman';
+}
+
+input {
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman';
+}
