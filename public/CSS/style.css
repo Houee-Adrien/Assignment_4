@@ -12,13 +12,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    font-family: Georgia, 'Times New Roman';
-    font-size : 45px;
-    font-weight: bold;
-    text-align: center;
-}
-
 button {
     width: 50%;
     padding: 10px;
